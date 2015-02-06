@@ -1,0 +1,664 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"caes",
+				"case class	case class"
+			],
+			[
+				"HADOOP",
+				"HADOOP_YARN_HOME"
+			],
+			[
+				"fi",
+				"fisherio-hb-ms-03"
+			],
+			[
+				"lamb",
+				"lambda_vec"
+			],
+			[
+				"error",
+				"error_train"
+			],
+			[
+				"theta",
+				"thetatrain"
+			],
+			[
+				"X",
+				"Xval"
+			],
+			[
+				"lin",
+				"linearRegCostFunction"
+			],
+			[
+				"L",
+				"L_in"
+			],
+			[
+				"Theta",
+				"Theta1_grad"
+			],
+			[
+				"sigmo",
+				"sigmoidGradient"
+			],
+			[
+				"delta",
+				"delta_3"
+			],
+			[
+				"a",
+				"a2"
+			],
+			[
+				"si",
+				"sigmoidGradient"
+			],
+			[
+				"z",
+				"z_2"
+			],
+			[
+				"The",
+				"Theta1"
+			],
+			[
+				"Th",
+				"Theta1"
+			],
+			[
+				"all",
+				"all_theta"
+			],
+			[
+				"num",
+				"num_labels"
+			],
+			[
+				"the",
+				"theta"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"wid",
+				"width"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "monads.scala",
+			"settings":
+			{
+				"buffer_size": 823,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"bash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"matla",
+				"Set Syntax: MATLAB"
+			],
+			[
+				"set",
+				"Set Syntax: MATLAB"
+			],
+			[
+				"matlab",
+				"Set Syntax: MATLAB"
+			],
+			[
+				"Package Control: li",
+				"Package Control: Install Package"
+			],
+			[
+				"pci",
+				"Package Control: Install Package"
+			],
+			[
+				"PCI",
+				"Package Control: Install Package"
+			],
+			[
+				"CPI",
+				"Package Control: Install Package"
+			],
+			[
+				"packCI",
+				"Package Control: Install Package"
+			],
+			[
+				"PACKAGE: in",
+				"Package Control: Install Package"
+			],
+			[
+				"PAckage",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Discover Packages"
+			],
+			[
+				"Package Control: List",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/charly/Documents/courses/node/javascripting/funcargs.js",
+		"/home/charly/Documents/courses/node/javascripting/variables.js",
+		"/home/charly/Documents/courses/node/javascripting/strings.js",
+		"/home/charly/Documents/courses/node/javascripting/length.js",
+		"/home/charly/Documents/courses/node/javascripting/revising.js",
+		"/home/charly/Documents/courses/node/javascripting/numbers.js",
+		"/home/charly/Documents/courses/node/javascripting/rounding.js",
+		"/home/charly/Documents/courses/node/javascripting/ntostring.js",
+		"/home/charly/Documents/courses/node/javascripting/if.js",
+		"/home/charly/Documents/courses/node/javascripting/loop.js",
+		"/home/charly/Documents/courses/node/javascripting/arrays.js",
+		"/home/charly/Documents/courses/node/javascripting/filter.js",
+		"/home/charly/Documents/courses/node/javascripting/arraylooping.js",
+		"/home/charly/Documents/courses/node/javascripting/objects.js",
+		"/home/charly/Documents/courses/node/javascripting/oprops.js",
+		"/home/charly/Documents/courses/node/javascripting/functions.js",
+		"/home/charly/Documents/courses/node/learnyournode/json-server.js",
+		"/home/charly/Documents/courses/node/learnyournode/upper-server.js",
+		"/home/charly/Documents/courses/node/http-server.js",
+		"/home/charly/Documents/courses/node/time-server.js",
+		"/home/charly/Documents/courses/node/juggling.js",
+		"/home/charly/Documents/courses/node/concat-http.js",
+		"/home/charly/Documents/courses/node/http.js",
+		"/home/charly/Documents/courses/node/modules.js",
+		"/home/charly/Documents/courses/node/io.js",
+		"/home/charly/Documents/courses/node/ls.js",
+		"/home/charly/development/eclipse/luna-java/eclipse.ini",
+		"/home/charly/Documents/courses/node/fileUtils.js",
+		"/home/charly/Documents/courses/node/io-sync.js",
+		"/home/charly/Documents/courses/node/hello.js",
+		"/home/charly/Documents/courses/node/args.js",
+		"/home/charly/Documents/courses/reactive/week-1/JSON.scala",
+		"/home/charly/development/workspaces/p13n-adds/fisher-io/etc/dev/hbase/regionservers",
+		"/home/charly/development/workspaces/p13n-adds/fisher-io/etc/dev/hadoop/mapred-site.xml",
+		"/home/charly/development/workspaces/p13n-adds/fisher-io/etc/dev/bin/initenv.sh",
+		"/home/charly/development/workspaces/p13n-adds/fisher-io/etc/dev/hbase/hbase-site.xml",
+		"/home/charly/development/workspaces/p13n-adds/fisher-io/etc/dev/hbase/hbase-env.sh",
+		"/home/charly/development/workspaces/p13n-adds/fisher-io/etc/dev/hbase/hdfs-site.xml",
+		"/home/charly/development/workspaces/p13n-adds/fisher-io/etc/dev/hbase/core-site.xml",
+		"/home/charly/development/workspaces/p13n-adds/fisher-io/etc/dev/hadoop/hadoop-env.sh",
+		"/home/charly/development/workspaces/p13n-adds/fisher-io/etc/dev/hadoop/hdfs-site.xml",
+		"/home/charly/development/workspaces/p13n-adds/fisher-io/etc/dev/hadoop/slaves",
+		"/home/charly/development/workspaces/p13n-adds/fisher-io/etc/dev/hadoop/yarn-env.sh",
+		"/home/charly/development/workspaces/p13n-adds/fisher-io/etc/dev/hadoop/yarn-site.xml",
+		"/home/charly/development/workspaces/p13n-adds/fisher-io/etc/dev/hbase/backup-masters",
+		"/home/charly/development/workspaces/p13n-adds/fisher-io/etc/dev/hadoop/mapred-site.bk",
+		"/home/charly/development/workspaces/p13n-adds/fisher-io/etc/dev/hadoop/copy-config.sh",
+		"/home/charly/development/workspaces/p13n-adds/fisher-io/etc/dev/hadoop/core-site.xml",
+		"/home/charly/development/workspaces/p13n-adds/fisher-io/etc/rc/hadoop/core-site.xml",
+		"/home/charly/development/workspaces/p13n-adds/fisher-io/etc/rc/bin/namenodes.sh",
+		"/home/charly/development/workspaces/p13n-adds/fisher-io/etc/rc/hadoop/yarn-site.xml",
+		"/home/charly/development/workspaces/p13n-adds/fisher-io/etc/rc/hbase/hbase-site.xml",
+		"/home/charly/development/workspaces/p13n-adds/fisher-io/etc/rc/hbase/regionservers",
+		"/home/charly/development/workspaces/p13n-adds/fisher-io/etc/rc/hbase/core-site.xml",
+		"/home/charly/development/workspaces/p13n-adds/fisher-io/etc/rc/bin/copy.sh",
+		"/home/charly/development/workspaces/p13n-adds/fisher-io/etc/rc/hadoop/copy-config.sh",
+		"/home/charly/development/workspaces/p13n-adds/fisher-io/etc/rc/bin/datanodes.sh",
+		"/home/charly/development/workspaces/p13n-adds/fisher-io/etc/rc/bin/env.sh",
+		"/home/charly/development/workspaces/p13n-adds/fisher-io/etc/rc/hbase/backup-masters",
+		"/home/charly/development/workspaces/p13n-adds/fisher-io/etc/rc/hbase/copy.sh",
+		"/home/charly/development/workspaces/p13n-adds/fisher-io/etc/rc/bin/members.sh",
+		"/home/charly/development/workspaces/p13n-adds/fisher-io/etc/rc/bin/nodemanagers.sh",
+		"/home/charly/development/workspaces/p13n-adds/fisher-io/etc/rc/bin/resourcemanagers.sh",
+		"/home/charly/development/workspaces/p13n-adds/fisher-io/etc/rc/hbase/hbase-env.cmd",
+		"/home/charly/development/workspaces/p13n-adds/fisher-io/etc/rc/hadoop/mapred-site.xml",
+		"/home/charly/development/workspaces/p13n-adds/fisher-io/etc/rc/hadoop/hadoop-template.sublime-project",
+		"/home/charly/development/workspaces/p13n-adds/fisher-io/etc/rc/hadoop/hdfs-site.xml",
+		"/home/charly/development/workspaces/p13n-adds/fisher-io/etc/rc/hadoop/slaves",
+		"/home/charly/development/workspaces/p13n-adds/fisher-io/etc/hbase/copy.sh",
+		"/home/charly/development/workspaces/p13n-adds/fisher-io/etc/hbase/regionservers",
+		"/home/charly/development/workspaces/p13n-adds/fisher-io/etc/hbase/hbase-site.xml",
+		"/home/charly/development/workspaces/p13n-adds/fisher-io/etc/bin/members.sh",
+		"/home/charly/development/workspaces/p13n-adds/fisher-io/etc/hadoop/mapred-site.xml",
+		"/home/charly/development/workspaces/p13n-adds/fisher-io/etc/hadoop/slaves",
+		"/home/charly/development/workspaces/p13n-adds/fisher-io/etc/hadoop/yarn-site.xml",
+		"/home/charly/development/workspaces/p13n-adds/fisher-io/etc/hadoop/copy-config.sh",
+		"/home/charly/development/workspaces/p13n-adds/fisher-io/etc/hadoop/yarn-site.bk",
+		"/home/charly/development/workspaces/p13n-adds/fisher-io/etc/hadoop/yarn-env.sh",
+		"/home/charly/development/workspaces/p13n-adds/fisher-io/etc/hadoop/log4j.properties",
+		"/home/charly/development/workspaces/p13n-adds/fisher-io/etc/hadoop/mapred-env.sh",
+		"/home/charly/development/workspaces/p13n-adds/fisher-io/etc/hadoop/hdfs-site.xml",
+		"/home/charly/development/workspaces/p13n-adds/fisher-io/etc/bin/namenodes.sh",
+		"/home/charly/development/workspaces/p13n-adds/fisher-io/etc/bin/control.sh",
+		"/home/charly/development/workspaces/p13n-adds/fisher-io/etc/bin/resoucemanagers.sh",
+		"/home/charly/development/workspaces/p13n-adds/fisher-io/etc/bin/datanodes.sh",
+		"/home/charly/development/workspaces/p13n-adds/fisher-io/etc/bin/copy.sh",
+		"/home/charly/development/workspaces/p13n-adds/fisher-io/etc/bin/nodemanagers.sh",
+		"/home/charly/development/workspaces/p13n-adds/fisher-io/etc/bin/env.sh",
+		"/home/charly/development/workspaces/p13n-adds/fisher-io/etc/hadoop/mapred-site.bk",
+		"/home/charly/Desktop/TealeafTarget.jsp",
+		"/home/charly/development/workspaces/p13n-adds/fisher-io/etc/hadoop/capacity-scheduler.xml",
+		"/home/charly/development/workspaces/p13n-adds/fisher-io/etc/hadoop/hadoop/hdfs-site.xml",
+		"/home/charly/development/workspaces/p13n-adds/fisher-io/etc/hadoop/core-site.xml",
+		"/opt/hadoop/hadoop-2.4.1-src/hadoop-mapreduce-project/hadoop-mapreduce-examples/src/main/java/org/apache/hadoop/examples/AggregateWordCount.java",
+		"/opt/hadoop/hadoop-2.4.1-src/hadoop-mapreduce-project/hadoop-mapreduce-examples/src/main/java/org/apache/hadoop/examples/MultiFileWordCount.java",
+		"/home/charly/development/workspaces/p13n-adds/fisher-io/etc/hadoop/hadoop-env.sh",
+		"/home/charly/development/workspaces/p13n-adds/fisher-io/etc/hadoop/bin/start-daemons.sh",
+		"/home/charly/development/workspaces/p13n-adds/fisher-io/etc/hadoop/datanode/yarn-site.xml",
+		"/home/charly/development/workspaces/p13n-adds/fisher-io/etc/hadoop/jobhistory/hdfs-site.xml",
+		"/home/charly/development/workspaces/p13n-adds/fisher-io/etc/hadoop/datanode/hdfs-site.xml",
+		"/home/charly/development/workspaces/p13n-adds/fisher-io/etc/hadoop/datanode/mapred-site.xml",
+		"/home/charly/development/workspaces/p13n-adds/fisher-io/etc/hadoop/nodemanager/yarn-site.xml",
+		"/home/charly/development/workspaces/p13n-adds/fisher-io/etc/hadoop/jobhistory/mapred-site.xml",
+		"/home/charly/development/workspaces/p13n-adds/fisher-io/etc/hadoop/resourcemanager/core-site.xml",
+		"/home/charly/development/workspaces/p13n-adds/fisher-io/etc/hadoop/namenode/hdfs-site.xml",
+		"/home/charly/development/workspaces/p13n-adds/fisher-io/etc/hadoop/resourcemanager/yarn-site.xml",
+		"/home/charly/Documents/courses/m-l/exercise-2/mapFeature.m",
+		"/home/charly/Documents/courses/m-l/exercise-3/ml_login_data.mat",
+		"/home/charly/Documents/courses/m-l/exercise-3/fmincg.m",
+		"/home/charly/Documents/courses/m-l/exercise-3/lrCostFunction.m",
+		"/home/charly/Documents/courses/m-l/exercise-3/sigmoid.m",
+		"/home/charly/Documents/courses/m-l/exercise-3/submitWeb.m",
+		"/home/charly/Documents/courses/m-l/exercise-2/ex2data1.txt",
+		"/home/charly/Documents/courses/m-l/exercise-3/ex3.m",
+		"/home/charly/Documents/courses/m-l/exercise-4/sigmoidGradient.m",
+		"/home/charly/Documents/courses/m-l/exercise-4/nnCostFunction.m",
+		"/home/charly/Documents/courses/m-l/exercise-4/randInitializeWeights.m",
+		"/home/charly/Documents/courses/m-l/exercise-3/oneVsAll.m",
+		"/home/charly/Documents/courses/m-l/exercise-3/predict.m",
+		"/home/charly/Documents/courses/m-l/exercise-3/predictOneVsAll.m",
+		"/home/charly/Documents/courses/m-l/exercise-3/ex3data1.mat",
+		"/home/charly/Documents/courses/m-l/exercise-2/costFunction.m",
+		"/home/charly/Documents/courses/m-l/exercise-2/plotDecisionBoundary.m",
+		"/home/charly/development/workspaces/aes/aes-s2/app/Resources/views/base.html.twig",
+		"/home/charly/development/workspaces/aes/aes-s2/web/bundles/site/css/main.css",
+		"/home/charly/development/workspaces/aes/aes-s2/web/bundles/site/css/gallery/slidorion.css",
+		"/home/charly/development/workspaces/aes/aes-s2/web/bundles/site/css/slider_multiple.css",
+		"/home/charly/development/workspaces/aes/aes-s2/vendor/twig/twig/doc/filters/slice.rst"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"*",
+			"home.css",
+			"*.css"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"}\n",
+			"i",
+			"{\n",
+			"req",
+			");\n",
+			"\\n",
+			"log",
+			");\n",
+			"');\n",
+			"d",
+			"-rs-",
+			"fs",
+			"-rs-",
+			"03",
+			" <property>\n  <name>dfs.nameservices</name>\n  <value>fisherio</value>\n</property>\n\n<property>\n  <name>dfs.ha.namenodes.fisherio</name>\n  <value>nn1,nn2</value>\n</property>",
+			"DEBUG",
+			"    <property>\n      <name>yarn.nodemanager.hostname</name>\n      <value>fisherio-hb-slv-00</value>\n    </property>",
+			"fisherio-hb-ms-0",
+			"fisherio-hb-ms-04",
+			"fisherio-hb-ms-",
+			"YARN",
+			"site.xml",
+			"yarn-site.xml",
+			"core-site.xml",
+			"yarn.nodemanager.hostname",
+			"  \n",
+			"    <property>\n      <name>mapreduce.jobtracker.address</name>\n      <value>fisherio-hb-ms-04:8021</value>\n    </property>",
+			"8040",
+			"jobtracker",
+			"yarn.resourcemanager.hostname.rm2",
+			"\n ",
+			"  <property>\n        <name>yarn.resourcemanager.hostname.rm1</name>\n        <value>fisherio-hb-ms-02</value>\n  </property>",
+			"yarn.resourcemanager.hostname",
+			"hadoop_daemon",
+			"$oper",
+			"$0",
+			"[@]}\n",
+			" <property>\n    <name>mapreduce.jobhistory.address</name>\n    <value>0.0.0.0:10020</value>\n </property>\n\n<property>\n    <name>mapreduce.jobhistory.webapp.address</name>\n    <value>0.0.0.0:19888</value>\n </property>",
+			"fisherio-hb-ms-03:9003",
+			"properties",
+			"fisherio-hb-ms-03:9003",
+			"9003",
+			"yarn.resourcemanager.address",
+			"yarn.app.mapreduce.am.staging-dir",
+			"<property>\n    <name>mapreduce.jobhistory.webapp.address</name>\n    <value>fisherio-hb-ms-04:19888</value>\n </property>\n \n <property>\n    <name>mapreduce.jobhistory.intermediate-done-dir</name>\n    <value>/mr-history/tmp/</value>\n </property>\n \n <property>\n    <name>mapreduce.jobhistory.done-dir</name>\n    <value>/mr-history/done</value>\n </property> ",
+			"19888",
+			"ipc",
+			"yarn.resourcemanager.fs.state-store.uri",
+			"yarn.nodemanager.aux-services",
+			"yarn.resourcemanager.zk.state-store.address",
+			"automatic",
+			"scheduler.class",
+			"default",
+			" \n",
+			"!\"",
+			"<property>\n    <name>mapreduce.reduce.java.opts</name>\n    <name>-Xmx2560M</name>\n </property>\n  \n\n  <property>\n    <name>mapreduce.task.io.sort.mb</name>\n    <name>512</name>\n </property>\n\n <property>\n    <name>mapreduce.task.io.sort.factor</name>\n    <name>100</name>\n </property>\n\n <property>\n    <name>mapreduce.reduce.shuffle.parallelcopies</name>\n    <name>50</name>\n </property>\n <!--mapreduce jobhistory config-->\n <property>\n    <name>mapreduce.jobhistory.address</name>\n    <name>fisherio-hb-ms-03</name>\n </property>\n\n<property>\n    <name>mapreduce.jobhistory.webapp.address</name>\n    <name>fisherio-hb-ms-03</name>\n </property>\n \n <property>\n    <name>mapreduce.jobhistory.intermediate-done-dir  </name>\n    <name>/mr-history/tmp/name>\n </property>\n \n <property>\n    <name>mapreduce.jobhistory.done-dir</name>\n    <name>/mr-history/done</name>\n </property> ",
+			"    \n",
+			"min",
+			"  \n",
+			"_2",
+			"digits",
+			"  \n",
+			"size(delta_3)\npause;\n",
+			"\n	",
+			"	\n",
+			"size(a1)\n	size(a2)\n	size(a3)",
+			"pause",
+			"		\n",
+			"pause",
+			"	\n",
+			"';\n",
+			"')\n",
+			"all_theta",
+			")\n",
+			"(:)\n",
+			")\n",
+			"t1",
+			")\n",
+			"\n	",
+			"{\n",
+			"	\n",
+			"width",
+			"import ScalateKeys._",
+			"Plugins",
+			"			        ",
+			"<div id=\"footer\">\n				<div class=\"link-to-pages\">	\n					<a href=\"http://www.jka.or.jp/english/e_index.html\" target=\"_blank\"><img src=\"/bundles/site/images/logo-jka.png\" /></a> \n				</div>\n				<div class=\"link-to-pages\">\n					<img src=\"/bundles/site/images/footer-aes.png\" />\n				</div>\n			</div>	",
+			"			\n",
+			"content-box",
+			"=\"{{ ",
+			"	        	\n",
+			"        \n",
+			"    		\n",
+			"\n					",
+			"e",
+			"				</",
+			" {% block stylesheets%}\n   {{ parent() }}\n   <link href=\"{{ asset('bundles/site/css/jquery-ui/jquery-ui-timepicker.css') }}\" rel=\"stylesheet\">\n   <link href=\"{{ asset('bundles/site/css/news.css') }}\" rel=\"stylesheet\">\n   <link href=\"{{ asset('bundles/site/css/jquery-ui/ui-lightness/jquery-ui-1.10.3.custom.min.css') }}\" rel=\"stylesheet\">\n {% endblock%}	\n\n {% block javascripts%}	\n 	{{ parent() }}\n 	<link href=\"{{ asset('bundles/site/js/jquery-ui/jquery.ui.timepicker.js') }}\" rel=\"stylesheet\">\n   	<link href=\"{{ asset('bundles/site/js/news.js') }}\" rel=\"stylesheet\">\n   	<link href=\"{{ asset('bundles/site/js/tyny_mce/jquery.tinymce.js') }}\" rel=\"stylesheet\">\n 	\n {% endblock%}	\n \n {% block navbar %}\n    <li><a href=\"{{ path('homepage')}}\">Home</a></li>\n    <li><a href=\"#\">Quienes Somos</a></li>\n    <li><a href=\"#\">Comunicaciones</a></li>\n    <li class=\"active\"><a href=\"{{ path('news_index') }}\">Noticias y Eventos</a></li>\n    <li><a href=\"#\">Dojos</a></li>\n    <li><a href=\"#\">Fotos y videos</a></li>\n    <li><a href=\"#\">Contacto</a></li>\n    <li><a href=\"{{ path('create_entry') }}\">Nueva entrada</a></li>\n {% endblock %}\n ",
+			"'}})",
+			"<div class=\"form-group\">\n    			{{ form_label(form.shortDescription,{'attr':{'class':'form-control'}}) }}\n    			{{ form_widget(form.shortDescription,{'attr':{'class':'form-control'}}) }}\n    		</div>\n    		<div class=\"form-group\">\n    			{{ form_label(form.description,{'attr':{'class':'form-control'}}) }}\n    			{{ form_widget(form.description,{'attr':{'class':'form-control'}}) }}\n    		</div>\n    		<div class=\"form-group\">\n    			{{ form_label(form.type,{'attr':{'class':'form-control'}}) }}\n    			{{ form_widget(form.type,{'attr':{'class':'form-control'}}) }}\n    		</div>\n    		<div class=\"form-group\">\n    			{{ form_label(form.image,{'attr':{'class':'form-control'}}) }}\n    			{{ form_widget(form.image,{'attr':{'class':'form-control'}}) }}\n    		</div>",
+			"	  		\n",
+			"\n  		",
+			"	\n",
+			"		\n",
+			"list",
+			"ddd",
+			" {%",
+			"%}\n",
+			"Entry",
+			"JKA",
+			"<?"
+		],
+		"highlight": true,
+		"in_selection": true,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"-rc-",
+			"hadoop-daemon",
+			"$1"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "monads.scala",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 823,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Scala/Scala.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.CSS Extended Completions":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sbt":
+	{
+		"height": 0.0
+	},
+	"output.sbt_error":
+	{
+		"height": 0.0
+	},
+	"project": "scala-lib.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"slidoio",
+				"aes-s2/web/bundles/site/css/gallery/slidorion.css"
+			],
+			[
+				"main.",
+				"aes-s2/web/bundles/site/css/main.css"
+			],
+			[
+				"base.ht",
+				"aes-s2/app/Resources/views/base.html.twig"
+			],
+			[
+				"base.",
+				"app/Resources/views/base.html.twig"
+			],
+			[
+				"home.h",
+				"src/JKA/SiteBundle/Resources/views/Home/home.html.twig"
+			],
+			[
+				"base.html",
+				"app/Resources/views/base.html.twig"
+			],
+			[
+				"main.css",
+				"web/bundles/site/css/main.css"
+			],
+			[
+				"home.c",
+				"web/bundles/site/css/home.css"
+			],
+			[
+				"base.h",
+				"app/Resources/views/base.html.twig"
+			],
+			[
+				"base",
+				"app/Resources/views/base.html.twig"
+			],
+			[
+				"home.ht",
+				"src/JKA/SiteBundle/Resources/views/Home/home.html.twig"
+			],
+			[
+				"home.js",
+				"web/bundles/site/js/home.js"
+			],
+			[
+				"home.html.twig",
+				"src/JKA/SiteBundle/Resources/views/Home/home.html.twig"
+			],
+			[
+				"hom.js",
+				"web/bundles/site/js/home.js"
+			],
+			[
+				"home.html",
+				"src/JKA/SiteBundle/Resources/views/Home/home.html.twig"
+			],
+			[
+				"slidori",
+				"web/bundles/site/css/gallery/slidorion.css"
+			],
+			[
+				"home.css",
+				"web/bundles/site/css/home.css"
+			],
+			[
+				"appkernel",
+				"app/AppKernel.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+		],
+		"width": 1115.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 233.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
